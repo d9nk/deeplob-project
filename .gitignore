@@ -1,0 +1,9 @@
+# unpacked data; only the FI-2010 archive is versioned
+data/*
+!data/fi2010_decpre.zip
+# outputs of notebook runs
+results_demo/
+results_full/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
